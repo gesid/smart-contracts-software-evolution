@@ -1,1 +1,1 @@
-# smart-contracts-evolution
+# smart-contracts-software-evolution
