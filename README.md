@@ -1,4 +1,4 @@
-# msr_crypto
+# smart-contracts-software-evolution
 
 <b>Trabalho desenvolvido para Trabalho de Conclusão de Curso(TCC) - Universidade Federal do Ceará<br></b>
 <b>Aluno:</b> Alan Rodrigues<br>
